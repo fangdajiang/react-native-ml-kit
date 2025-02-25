@@ -1,7 +1,7 @@
 {
   "name": "@react-native-ml-kit/translate-text",
   "title": "React Native ML Kit Translate Text",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "React Native On-Device Text Translation w/ Google ML Kit",
   "main": "index.ts",
   "files": [
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/a7med-mahmoud/react-native-translate-text.git",
-    "baseUrl": "https://github.com/a7med-mahmoud/react-native-translate-text"
+    "url": "git+https://github.com/fangdajiang/react-native-translate-text.git",
+    "baseUrl": "https://github.com/fangdajiang/react-native-translate-text"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Ahmed Mahmoud",
-    "email": "a7med.mahmoud2004@gmail.com"
+    "name": "fangdajiang",
+    "email": "fangdajiang@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
